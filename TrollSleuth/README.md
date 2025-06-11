@@ -25,3 +25,7 @@
 
 #### [plots.py](plots.py)
 <p align="justify"> This file generates visualizations to assist with data analysis, model evaluation, and interpretation. It creates plots that help visualize key insights, including feature distributions, classification performance, and feature importance, aiding in a better understanding of the model and results.</p>
+
+## Citation
+Havva Alizadeh Noughabi, Abbas Yazdinejad, Fattane Zarrinkalam, Ali Dehghantanha. "TrollSleuth: Behavioral and Linguistic Fingerprinting of State-Sponsored Trolls" 22nd Annual International Conference on Privacy, Security, and Trust (PST2025).
+
