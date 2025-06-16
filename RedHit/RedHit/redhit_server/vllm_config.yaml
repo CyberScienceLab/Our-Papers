@@ -1,0 +1,5 @@
+
+port: "7070"  
+tensor_parallel_size: 1       
+cpu-offload-gb: 10
+#max_num_batched_tokens:46368

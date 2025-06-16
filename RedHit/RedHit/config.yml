@@ -1,0 +1,5 @@
+prompt_generator_model_name: fine-tuned
+targeted_model_name: llama3
+local_models_dir: /home/researchuser/LLMSec/LLMSecurity/RedHit/pre_trained_models/local_models/RedHit
+default_model_path: /home/researchuser/LLMSec/LLMSecurity/RedHit/pre_trained_models/local_models/RedHit/fine-tuned
+port: 7070

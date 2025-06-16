@@ -1,0 +1,5 @@
+model_list:
+  - model_name: SmolLM-135M
+    litellm_params:
+      model: huggingface/HuggingFaceTB/SmolLM-135M  
+      api_key: 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

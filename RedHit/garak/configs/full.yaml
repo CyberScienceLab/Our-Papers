@@ -1,0 +1,12 @@
+---
+system:
+  lite: false
+
+plugins:
+  probe_spec: atkgen,continuation,dan,dan.Ablation_Dan_11_0,encoding,glitch.Glitch,goodside,av_spam_scanning,leakreplay.LiteratureCloze,leakreplay.LiteratureComplete,lmrc,malwaregen,misleading,packagehallucination,promptinject.HijackHateHumans,promptinject.HijackKillHumans,promptinject.HijackLongPrompt,realtoxicityprompts,snowball.GraphConnectivity,snowball.Primes,snowball.Senators,xss
+  probes:
+    encoding:
+      payloads:
+        - default,xss,slur_terms
+  extended_detectors: false
+  buff_spec: paraphrase.Fast
