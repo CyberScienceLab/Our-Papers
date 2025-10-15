@@ -8,9 +8,11 @@ This study shows that persuasive strategies can significantly increase the gener
 
 ## Dataset
 
-- **AdvBench**: This dataset contains 520 queries, covering various types of harmful behavior ([`Data/harmful_behaviors.csv`](https://github.com/llm-attacks/llm-attacks/blob/main/data/advbench/harmful_behaviors.csv)). We then generate persuasive prompts based on these original prompts. An example is shown below:
+- **AdvBench**: This dataset contains 520 queries, covering various types of harmful behavior ([`Data/harmful_behaviors.csv`](https://github.com/llm-attacks/llm-attacks/blob/main/data/advbench/harmful_behaviors.csv)).
 
-![example](./Figures/example.JPG)
+<!-- We then generate persuasive prompts based on these original prompts. An example is shown below:
+
+![example](./Figures/example.JPG)  -->
 
 ## Target Models
 
